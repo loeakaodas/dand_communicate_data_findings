@@ -1,16 +1,14 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Prosper Load Data Exploration
 
+## by Andrey Kabanov
 
 ## Dataset
 
 > Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
 
-
 ## Summary of Findings
 
 > Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
-
 
 ## Key Insights for Presentation
 
