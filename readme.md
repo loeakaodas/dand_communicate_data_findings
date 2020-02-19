@@ -1,4 +1,4 @@
-# Prosper Load Data Exploration
+# Prosper Loan Data Exploration
 
 ## by Andrey Kabanov
 
